@@ -1,5 +1,5 @@
-Olá, me chamo Gustavo ! 
-## Bem vindo ao meu perfil GitHub 👋
+👋 Hello! Welcome to my Github profile.
+## My name is Gustavo and my nickname is "Gustah"!
 
 - 👋 Hi, I’m @Gustah-Py 
 - 👀 I’m interested in technology area
